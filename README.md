@@ -1,4 +1,4 @@
-# coursera
+# linear regression course expercise
 
 If the data files for this project is not in your working directory, the script will automatically donwnload it to your working directory, then will unzip it.
 
